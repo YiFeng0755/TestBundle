@@ -1,0 +1,1 @@
+dx --dex --output=bin\classes.dex bin libs

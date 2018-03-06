@@ -1,0 +1,1 @@
+aapt package -f -S res -I C:\android-sdks\platforms\android-23\android.jar -A assets -M AndroidManifest.xml -F bin/TestBundle.ap_
